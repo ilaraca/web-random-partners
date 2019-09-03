@@ -1,52 +1,68 @@
 const data = [
   {
-    name: 'Bruno',
-    img: './img/Bruno.jpg'
+    name: 'Adriana',
+    img: './img/Adriana.jpg',
   },
   {
-    name: 'Cristiana',
-    img: './img/Cristiana.jpg'
+    name: 'Alan',
+    img: './img/Alan.jpg',
   },
   {
-    name: 'Guilherme',
-    img: './img/Guilherme.jpg'
+    name: 'Dan',
+    img: './img/Dan.jpg',
   },
   {
-    name: 'Henrique',
-    img: './img/Henrique.jpg'
+    name: 'Fernando',
+    img: './img/Fernando.jpg',
   },
   {
-    name: 'Ilara',
-    img: './img/Ilara.jpg'
+    name: 'Ismael',
+    img: './img/Ismael.jpg',
   },
   {
-    name: 'Joao',
-    img: './img/Joao.jpg'
+    name: 'Joel',
+    img: './img/Joel.jpg',
   },
   {
-    name: 'Jorge',
-    img: './img/Jorge.jpg'
+    name: 'Julia',
+    img: './img/Julia.jpg',
   },
   {
-    name: 'Marianna',
-    img: './img/Marianna.jpg'
+    name: 'Luan',
+    img: './img/Luan.jpg',
   },
   {
-    name: 'Matheus',
-    img: './img/Matheus.jpg'
+    name: 'Luiz',
+    img: './img/Luiz.jpg',
   },
   {
-    name: 'Murillo',
-    img: './img/Murillo.jpg'
+    name: 'Marcos',
+    img: './img/Marcos.jpg',
   },
   {
-    name: 'Raphael',
-    img: './img/Raphael.jpg'
+    name: 'Nadia',
+    img: './img/Nadia.jpg',
   },
   {
-    name: 'Diego',
-    img: './img/Diego.jpg'
-  }
+    name: 'Pedro',
+    img: './img/Pedro.jpg',
+  },
+  {
+    name: 'Rafael',
+    img: './img/Rafael.jpg',
+  },
+  {
+    name: 'Roberto',
+    img: './img/Roberto.jpg',
+  },
+  {
+    name: 'Rodrigo',
+    img: './img/Rodrigo.jpg',
+  },
+  {
+    name: 'Carol',
+    img: './img/Carol.png',
+  },
 ];
 
 class Raffle {
